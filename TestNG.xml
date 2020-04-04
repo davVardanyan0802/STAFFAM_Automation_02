@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="StaffAM">
+    <listeners>
+        <listener class-name="com.staff_am.utilities.Reporting"/>
+    </listeners>
+    <test name="Staff Automation test">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="com.staff_am.testCases.TC_LoginTest_01"/>
+        </classes>
+    </test>
+</suite>
