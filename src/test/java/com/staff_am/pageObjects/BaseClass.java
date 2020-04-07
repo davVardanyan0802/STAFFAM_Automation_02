@@ -25,6 +25,8 @@ public class BaseClass {
     public String baseURL = readConfig.getApplicationUrl();
     public String username = readConfig.getUserName();
     public String password = readConfig.getPassword();
+    public String searchTerm = readConfig.getSearchTerm();
+
     public static WebDriver driver;
     public static Logger logger;
 

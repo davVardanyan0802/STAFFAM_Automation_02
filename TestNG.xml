@@ -8,7 +8,13 @@
     <test name="Staff Automation test">
         <parameter name="browser" value="chrome"></parameter>
         <classes>
-            <class name="com.staff_am.testCases.TC_LoginTest_01"/>
+                        <class name="com.staff_am.testCases.TC_LoginTest_01"/>
+                        <class name="com.staff_am.testCases.TC_JobsPage_02"/>
+                        <class name="com.staff_am.testCases.TC_Search_03"/>
+                        <class name="com.staff_am.testCases.TC_SighOut_05"/>
+                        <class name="com.staff_am.testCases.TC_FilterLevel_06"/>
+
+
         </classes>
     </test>
 </suite>

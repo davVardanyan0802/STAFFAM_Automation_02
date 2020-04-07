@@ -2,12 +2,11 @@ package com.staff_am.testCases;
 
 import com.staff_am.pageObjects.BaseClass;
 import com.staff_am.pageObjects.LoginPage;
-import org.apache.commons.logging.Log;
 import org.openqa.selenium.By;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
@@ -30,6 +29,7 @@ public class TC_LoginTest_01 extends BaseClass {
 
         logger.info("Password entered");
         wait.until(ExpectedConditions.presenceOfElementLocated(By.id("btn_login")));
+
         loginPage.clickSubmit();
         logger.info("Submit clicked");
         wait.until(ExpectedConditions.urlToBe("https://staff.am/en/users/resume/profile"));
@@ -47,5 +47,7 @@ public class TC_LoginTest_01 extends BaseClass {
 
 
     }
+
+
 
 }

@@ -31,11 +31,6 @@ public class LoginPage {
     WebElement btnLogin;
 
 
-//    @FindBy(xpath = "//a[@href='/en/users/registration/logout']")
-//    @CacheLookup
-//    WebElement logOut;
-
-
     public void clickSignIn() {
         signIn.click();
     }

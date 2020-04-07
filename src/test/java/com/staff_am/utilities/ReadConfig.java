@@ -33,4 +33,11 @@ public class ReadConfig {
         String password = pro.getProperty("password");
         return password;
     }
+
+    public String getSearchTerm() {
+        String term = pro.getProperty("searchTerm");
+        return term;
+    }
+
+
 }

@@ -145,3 +145,662 @@
 2020-04-04 15:58:37,510 - StaffAm -INFO - Password entered
 2020-04-04 15:58:37,885 - StaffAm -INFO - Submit clicked
 2020-04-04 15:58:44,689 - StaffAm -INFO - Log In Successfully
+2020-04-04 16:26:59,392 - StaffAm -INFO -  Clicked Sign in
+2020-04-04 16:26:59,756 - StaffAm -INFO - Username entered
+2020-04-04 16:27:00,044 - StaffAm -INFO - Password entered
+2020-04-04 16:27:00,272 - StaffAm -INFO - Submit clicked
+2020-04-04 16:27:06,879 - StaffAm -INFO - Log In Successfully
+2020-04-04 20:38:33,965 - StaffAm -INFO -  Clicked Sign in
+2020-04-04 20:38:34,624 - StaffAm -INFO - Username entered
+2020-04-04 20:38:35,016 - StaffAm -INFO - Password entered
+2020-04-04 20:38:35,403 - StaffAm -INFO - Submit clicked
+2020-04-04 20:38:42,510 - StaffAm -INFO - Log In Successfully
+2020-04-05 17:53:03,816 - StaffAm -INFO - Signed in
+2020-04-05 17:53:08,078 - StaffAm -INFO - Clicked on job
+2020-04-05 17:53:09,013 - StaffAm -INFO - Job Page Successfully
+2020-04-05 18:23:02,118 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 18:35:39,233 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 18:42:25,194 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 18:44:12,041 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 19:28:51,176 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 19:28:52,601 - StaffAm -INFO - Search term entered
+2020-04-05 19:28:53,289 - StaffAm -INFO - Search button clicked
+2020-04-05 19:31:18,796 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 19:31:19,378 - StaffAm -INFO - Search term entered
+2020-04-05 19:31:20,455 - StaffAm -INFO - Search button clicked
+2020-04-05 19:54:56,006 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 19:54:57,707 - StaffAm -INFO - Search term entered
+2020-04-05 19:54:58,439 - StaffAm -INFO - Search button clicked
+2020-04-05 19:57:27,011 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 19:57:27,627 - StaffAm -INFO - Search term entered
+2020-04-05 19:57:28,520 - StaffAm -INFO - Search button clicked
+2020-04-05 19:58:42,698 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 19:58:43,551 - StaffAm -INFO - Search term entered
+2020-04-05 19:58:44,556 - StaffAm -INFO - Search button clicked
+2020-04-05 20:02:58,451 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 20:02:59,930 - StaffAm -INFO - Search term entered
+2020-04-05 20:03:00,810 - StaffAm -INFO - Search button clicked
+2020-04-05 20:04:31,320 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 20:04:32,801 - StaffAm -INFO - Search term entered
+2020-04-05 20:04:33,583 - StaffAm -INFO - Search button clicked
+2020-04-05 20:14:12,885 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 20:14:13,521 - StaffAm -INFO - Search term entered
+2020-04-05 20:14:14,499 - StaffAm -INFO - Search button clicked
+2020-04-05 20:15:47,313 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 20:15:48,269 - StaffAm -INFO - Search term entered
+2020-04-05 20:15:49,247 - StaffAm -INFO - Search button clicked
+2020-04-05 20:19:26,178 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 20:19:27,020 - StaffAm -INFO - Search term entered
+2020-04-05 20:19:28,044 - StaffAm -INFO - Search button clicked
+2020-04-05 20:22:00,032 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 20:22:00,720 - StaffAm -INFO - Search term entered
+2020-04-05 20:22:01,801 - StaffAm -INFO - Search button clicked
+2020-04-05 20:24:48,075 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 20:24:51,407 - StaffAm -INFO - Search term entered
+2020-04-05 20:24:52,297 - StaffAm -INFO - Search button clicked
+2020-04-05 20:26:07,357 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 20:26:08,142 - StaffAm -INFO - Search term entered
+2020-04-05 20:26:08,958 - StaffAm -INFO - Search button clicked
+2020-04-05 20:26:16,068 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,096 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,124 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,148 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,169 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,193 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,221 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,245 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,269 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,301 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,325 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,349 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,373 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,397 - StaffAm -INFO - Search matches
+2020-04-05 20:26:16,421 - StaffAm -INFO - Search matches
+2020-04-05 20:26:17,012 - StaffAm -WARN - Search is not matching
+2020-04-05 20:26:17,593 - StaffAm -WARN - Search is not matching
+2020-04-05 20:26:18,169 - StaffAm -WARN - Search is not matching
+2020-04-05 20:26:18,742 - StaffAm -WARN - Search is not matching
+2020-04-05 20:26:19,330 - StaffAm -WARN - Search is not matching
+2020-04-05 20:26:19,919 - StaffAm -WARN - Search is not matching
+2020-04-05 20:26:20,504 - StaffAm -WARN - Search is not matching
+2020-04-05 20:26:21,076 - StaffAm -WARN - Search is not matching
+2020-04-05 20:32:47,977 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 20:32:48,552 - StaffAm -INFO - Search term entered
+2020-04-05 20:32:48,934 - StaffAm -INFO - Search button clicked
+2020-04-05 20:33:12,368 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,396 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,424 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,448 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,472 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,496 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,520 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,544 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,568 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,592 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,616 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,640 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,664 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,690 - StaffAm -INFO - Search matches
+2020-04-05 20:33:12,712 - StaffAm -INFO - Search matches
+2020-04-05 20:33:13,352 - StaffAm -WARN - Search is not matching
+2020-04-05 20:33:13,852 - StaffAm -WARN - Search is not matching
+2020-04-05 20:33:14,613 - StaffAm -WARN - Search is not matching
+2020-04-05 20:33:15,321 - StaffAm -WARN - Search is not matching
+2020-04-05 20:33:15,850 - StaffAm -WARN - Search is not matching
+2020-04-05 20:33:16,392 - StaffAm -WARN - Search is not matching
+2020-04-05 20:33:16,928 - StaffAm -WARN - Search is not matching
+2020-04-05 20:33:17,461 - StaffAm -WARN - Search is not matching
+2020-04-05 20:38:45,812 - StaffAm -INFO - Sign in and went to job board page
+2020-04-05 20:38:46,512 - StaffAm -INFO - Search term entered
+2020-04-05 20:38:47,821 - StaffAm -INFO - Search button clicked
+2020-04-05 20:38:54,965 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,010 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,052 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,086 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,126 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,165 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,202 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,242 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,282 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,318 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,357 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,395 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,431 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,475 - StaffAm -INFO - Search matches
+2020-04-05 20:38:55,511 - StaffAm -INFO - Search matches
+2020-04-05 20:38:56,232 - StaffAm -WARN - Search is not matching
+2020-04-05 20:38:56,728 - StaffAm -WARN - Search is not matching
+2020-04-05 20:38:57,249 - StaffAm -WARN - Search is not matching
+2020-04-05 20:38:57,798 - StaffAm -WARN - Search is not matching
+2020-04-05 20:38:58,318 - StaffAm -WARN - Search is not matching
+2020-04-05 20:38:59,051 - StaffAm -WARN - Search is not matching
+2020-04-05 20:38:59,639 - StaffAm -WARN - Search is not matching
+2020-04-05 20:39:00,220 - StaffAm -WARN - Search is not matching
+2020-04-06 15:49:54,230 - StaffAm -INFO - Log out success
+2020-04-06 15:51:00,595 - StaffAm -WARN - Log out failed
+2020-04-06 15:55:33,682 - StaffAm -INFO - Log out success
+2020-04-06 16:25:20,893 - StaffAm -INFO - Checked
+2020-04-06 16:41:57,569 - StaffAm -INFO - Went to main job page
+2020-04-06 16:42:59,892 - StaffAm -INFO - Went to main job page
+2020-04-06 16:47:15,718 - StaffAm -INFO - Went to main job page
+2020-04-06 16:47:16,767 - StaffAm -INFO - State checkbox clicked
+2020-04-06 16:58:56,672 - StaffAm -INFO - Went to main job page
+2020-04-06 16:59:00,812 - StaffAm -INFO - State checkbox clicked
+2020-04-06 16:59:02,143 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:02,881 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:03,565 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:04,271 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:04,982 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:05,651 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:06,298 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:06,908 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:07,571 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:08,255 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:09,111 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:09,952 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:10,733 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:11,532 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:12,298 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:13,097 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:13,866 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:14,659 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:15,434 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:16,228 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:16,931 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:17,634 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:18,361 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:19,058 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:19,758 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:20,437 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:21,152 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:21,846 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:22,557 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:23,269 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:23,996 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:24,657 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:25,302 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:25,950 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:26,609 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:27,277 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:27,939 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:28,606 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:29,275 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:29,925 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:30,601 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:31,266 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:31,926 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:32,520 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:33,123 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:33,731 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:34,325 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:34,922 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:35,499 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 16:59:36,120 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:39,505 - StaffAm -INFO - Went to main job page
+2020-04-06 17:00:41,073 - StaffAm -INFO - State checkbox clicked
+2020-04-06 17:00:41,904 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:42,421 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:42,872 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:43,334 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:43,818 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:44,281 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:44,734 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:45,243 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:45,749 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:46,243 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:46,748 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:47,311 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:47,832 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:48,340 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:48,861 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:49,393 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:49,893 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:50,424 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:50,922 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:51,447 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:51,960 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:52,493 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:53,000 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:53,503 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:54,025 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:54,531 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:55,046 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:55,563 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:56,084 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:56,609 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:57,116 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:57,631 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:58,222 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:58,743 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:59,270 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:00:59,790 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:00,300 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:00,826 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:01,358 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:01,913 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:02,397 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:02,905 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:03,437 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:03,930 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:04,436 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:04,947 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:05,456 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:05,965 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:06,418 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:01:06,869 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:03:56,583 - StaffAm -INFO - Went to main job page
+2020-04-06 17:05:41,605 - StaffAm -INFO - Went to main job page
+2020-04-06 17:05:42,668 - StaffAm -INFO - State checkbox clicked
+2020-04-06 17:06:52,713 - StaffAm -INFO - Went to main job page
+2020-04-06 17:06:56,587 - StaffAm -INFO - State checkbox clicked
+2020-04-06 17:07:02,486 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:07:03,190 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:07:04,033 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:07:04,943 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:37,366 - StaffAm -INFO - Went to main job page
+2020-04-06 17:08:43,846 - StaffAm -INFO - State checkbox clicked
+2020-04-06 17:08:49,447 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:49,947 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:50,381 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:50,853 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:51,330 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:51,743 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:52,186 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:52,683 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:53,151 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:53,600 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:54,147 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:54,651 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:55,157 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:55,671 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:56,190 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:56,697 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:57,211 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:57,733 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:58,245 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:58,753 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:59,274 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:08:59,767 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:00,284 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:00,800 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:01,321 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:01,831 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:02,350 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:02,858 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:03,335 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:03,830 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:04,348 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:04,864 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:05,391 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:05,909 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:06,428 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:06,941 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:07,442 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:07,986 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:08,536 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:09,066 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:09,554 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:10,078 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:10,605 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:11,134 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:11,636 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:12,123 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:12,664 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:13,208 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:13,740 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:09:14,263 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:12:12,222 - StaffAm -INFO - Went to main job page
+2020-04-06 17:12:18,656 - StaffAm -INFO - State checkbox clicked
+2020-04-06 17:15:01,155 - StaffAm -INFO - Went to main job page
+2020-04-06 17:15:07,124 - StaffAm -INFO - State checkbox clicked
+2020-04-06 17:16:25,013 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:25,458 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:25,927 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:26,458 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:26,979 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:27,468 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:27,972 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:28,478 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:28,981 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:29,482 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:29,968 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:30,481 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:31,003 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:31,508 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:16:31,988 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:28:55,404 - StaffAm -INFO - Went to main job page
+2020-04-06 17:29:01,863 - StaffAm -INFO - State checkbox clicked
+2020-04-06 17:29:07,723 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:08,191 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:08,634 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:09,082 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:09,520 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:10,000 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:10,524 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:11,036 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:11,539 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:12,019 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:12,533 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:13,046 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:13,549 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:14,094 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:29:14,598 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:33:59,236 - StaffAm -INFO - Went to main job page
+2020-04-06 17:34:02,286 - StaffAm -INFO - State checkbox clicked
+2020-04-06 17:34:02,971 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:03,507 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:04,015 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:04,508 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:05,024 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:05,584 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:06,305 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:06,874 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:07,458 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:07,998 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:08,627 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:09,175 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:09,780 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:10,339 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 17:34:10,888 - StaffAm -WARN - Displaying only state jobs failed
+2020-04-06 21:17:34,263 - StaffAm -INFO -  Clicked Sign in
+2020-04-06 21:17:34,616 - StaffAm -INFO - Username entered
+2020-04-06 21:17:34,901 - StaffAm -INFO - Password entered
+2020-04-06 21:17:35,164 - StaffAm -INFO - Submit clicked
+2020-04-06 21:17:41,695 - StaffAm -INFO - Log In Successfully
+2020-04-06 21:18:16,381 - StaffAm -INFO -  Clicked Sign in
+2020-04-06 21:18:16,829 - StaffAm -INFO - Username entered
+2020-04-06 21:18:17,053 - StaffAm -INFO - Password entered
+2020-04-06 21:18:17,277 - StaffAm -INFO - Submit clicked
+2020-04-06 21:18:23,812 - StaffAm -INFO - Log In Successfully
+2020-04-06 21:18:45,865 - StaffAm -INFO - Signed in
+2020-04-06 21:18:51,175 - StaffAm -INFO - Clicked on job
+2020-04-06 21:18:51,744 - StaffAm -INFO - Job Page Successfully
+2020-04-06 21:19:19,023 - StaffAm -INFO - Sign in and went to job board page
+2020-04-06 21:19:20,024 - StaffAm -INFO - Search term entered
+2020-04-06 21:19:20,588 - StaffAm -INFO - Search button clicked
+2020-04-06 21:19:27,698 - StaffAm -INFO - Search matches
+2020-04-06 21:19:27,734 - StaffAm -INFO - Search matches
+2020-04-06 21:19:27,771 - StaffAm -INFO - Search matches
+2020-04-06 21:19:27,807 - StaffAm -INFO - Search matches
+2020-04-06 21:19:27,849 - StaffAm -INFO - Search matches
+2020-04-06 21:19:27,895 - StaffAm -INFO - Search matches
+2020-04-06 21:19:27,943 - StaffAm -INFO - Search matches
+2020-04-06 21:19:27,975 - StaffAm -INFO - Search matches
+2020-04-06 21:19:28,023 - StaffAm -INFO - Search matches
+2020-04-06 21:19:28,050 - StaffAm -INFO - Search matches
+2020-04-06 21:19:28,075 - StaffAm -INFO - Search matches
+2020-04-06 21:19:28,103 - StaffAm -INFO - Search matches
+2020-04-06 21:19:28,127 - StaffAm -INFO - Search matches
+2020-04-06 21:19:28,155 - StaffAm -INFO - Search matches
+2020-04-06 21:19:28,179 - StaffAm -INFO - Search matches
+2020-04-06 21:19:28,931 - StaffAm -WARN - Search is not matching
+2020-04-06 21:19:29,500 - StaffAm -WARN - Search is not matching
+2020-04-06 21:19:30,028 - StaffAm -WARN - Search is not matching
+2020-04-06 21:19:30,580 - StaffAm -WARN - Search is not matching
+2020-04-06 21:19:31,177 - StaffAm -WARN - Search is not matching
+2020-04-06 21:19:31,658 - StaffAm -WARN - Search is not matching
+2020-04-06 21:19:32,359 - StaffAm -WARN - Search is not matching
+2020-04-06 21:19:32,975 - StaffAm -WARN - Search is not matching
+2020-04-06 21:19:33,531 - StaffAm -WARN - Search is not matching
+2020-04-06 21:19:34,059 - StaffAm -WARN - Search is not matching
+2020-04-06 21:19:59,420 - StaffAm -INFO - Log out success
+2020-04-06 21:20:26,988 - StaffAm -INFO - Went to main job page
+2020-04-06 21:21:36,983 - StaffAm -INFO - Went to main job page
+2020-04-06 21:23:25,044 - StaffAm -INFO - Went to main job page
+2020-04-06 21:25:37,934 - StaffAm -INFO - Went to main job page
+2020-04-06 21:28:06,963 - StaffAm -INFO - Went to main job page
+2020-04-06 21:32:44,873 - StaffAm -INFO - Went to main job page
+2020-04-06 21:34:03,496 - StaffAm -INFO - Went to main job page
+2020-04-06 21:37:59,157 - StaffAm -INFO - Went to main job page
+2020-04-06 21:41:53,194 - StaffAm -INFO - Went to main job page
+2020-04-06 21:52:37,500 - StaffAm -INFO - Went to main job page
+2020-04-06 21:58:22,908 - StaffAm -INFO - Went to main job page
+2020-04-06 22:02:31,178 - StaffAm -INFO - Went to main job page
+2020-04-06 22:30:40,506 - StaffAm -INFO - Went to main job page
+2020-04-07 16:33:44,076 - StaffAm -INFO - Went to main job page
+2020-04-07 16:37:49,932 - StaffAm -INFO - Went to main job page
+2020-04-07 16:37:54,249 - StaffAm -INFO - Senior filter clicked
+2020-04-07 16:37:57,807 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:37:58,290 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:37:58,772 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:37:59,322 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:37:59,759 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:00,209 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:00,665 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:01,135 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:01,566 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:02,192 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:02,620 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:03,158 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:03,679 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:04,200 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:04,708 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:05,223 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:05,766 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:06,244 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:06,741 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:07,255 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:07,771 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:08,318 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:08,858 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:09,431 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:09,985 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:10,561 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:11,137 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:11,693 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:12,284 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:12,795 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:13,334 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:13,850 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:14,373 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:14,870 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:15,370 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:15,871 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:16,364 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:16,875 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:17,385 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:17,911 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:18,433 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:18,938 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:19,473 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:19,937 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:20,343 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:20,771 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:21,190 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:21,615 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:22,050 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:38:22,541 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:41,743 - StaffAm -INFO - Went to main job page
+2020-04-07 16:43:46,075 - StaffAm -INFO - Senior filter clicked
+2020-04-07 16:43:46,171 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:43:46,676 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:46,700 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:43:47,186 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:47,661 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:48,178 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:48,631 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:49,112 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:49,526 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:50,007 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:50,449 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:50,487 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:43:50,520 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:43:50,544 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:43:51,022 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:51,453 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:51,968 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:52,495 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:53,015 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:53,533 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:54,051 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:54,558 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:55,022 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:55,519 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:56,009 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:56,032 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:43:56,051 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:43:56,571 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:56,596 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:43:56,616 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:43:57,107 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:57,127 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:43:57,149 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:43:57,168 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:43:57,639 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:58,146 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:58,651 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:59,131 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:59,660 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:43:59,680 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:44:00,182 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:44:00,687 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:44:00,709 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:44:00,729 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:44:00,749 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:44:00,768 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:44:00,787 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:44:00,807 - StaffAm -INFO - All job listings with Senior position
+2020-04-07 16:44:01,298 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:44:01,834 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:45:56,027 - StaffAm -INFO - Went to main job page
+2020-04-07 16:46:00,329 - StaffAm -INFO - Senior filter clicked
+2020-04-07 16:46:00,421 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:00,932 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:00,957 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:01,422 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:01,911 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:02,431 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:02,882 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:03,336 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:03,833 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:04,264 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:04,711 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:04,762 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:04,785 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:04,815 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:05,276 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:05,704 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:06,229 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:06,740 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:07,229 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:07,745 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:08,257 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:08,782 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:09,310 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:09,814 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:10,312 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:10,332 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:10,352 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:10,839 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:10,858 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:10,877 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:11,384 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:11,404 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:11,423 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:11,442 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:11,951 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:12,442 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:12,941 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:13,456 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:13,956 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:13,976 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:14,494 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:15,022 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:15,043 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:15,062 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:15,081 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:15,101 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:15,119 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:15,138 - StaffAm -INFO - Senior positions
+2020-04-07 16:46:15,641 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:46:16,105 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:56:51,675 - StaffAm -INFO -  Clicked Sign in
+2020-04-07 16:56:51,984 - StaffAm -INFO - Username entered
+2020-04-07 16:56:52,235 - StaffAm -INFO - Password entered
+2020-04-07 16:56:52,479 - StaffAm -INFO - Submit clicked
+2020-04-07 16:56:58,751 - StaffAm -INFO - Log In Successfully
+2020-04-07 16:57:20,213 - StaffAm -INFO - Signed in
+2020-04-07 16:57:24,476 - StaffAm -INFO - Clicked on job
+2020-04-07 16:57:25,505 - StaffAm -INFO - Job Page Successfully
+2020-04-07 16:57:53,029 - StaffAm -INFO - Sign in and went to job board page
+2020-04-07 16:57:53,807 - StaffAm -INFO - Search term entered
+2020-04-07 16:57:54,372 - StaffAm -INFO - Search button clicked
+2020-04-07 16:58:01,455 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,480 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,501 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,520 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,540 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,563 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,583 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,604 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,626 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,646 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,667 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,688 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,714 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,735 - StaffAm -INFO - Search matches
+2020-04-07 16:58:01,754 - StaffAm -INFO - Search matches
+2020-04-07 16:58:02,411 - StaffAm -WARN - Search is not matching
+2020-04-07 16:58:02,918 - StaffAm -WARN - Search is not matching
+2020-04-07 16:58:03,435 - StaffAm -WARN - Search is not matching
+2020-04-07 16:58:03,910 - StaffAm -WARN - Search is not matching
+2020-04-07 16:58:04,460 - StaffAm -WARN - Search is not matching
+2020-04-07 16:58:04,932 - StaffAm -WARN - Search is not matching
+2020-04-07 16:58:05,444 - StaffAm -WARN - Search is not matching
+2020-04-07 16:58:05,999 - StaffAm -WARN - Search is not matching
+2020-04-07 16:58:06,537 - StaffAm -WARN - Search is not matching
+2020-04-07 16:58:07,018 - StaffAm -WARN - Search is not matching
+2020-04-07 16:58:07,530 - StaffAm -WARN - Search is not matching
+2020-04-07 16:58:34,732 - StaffAm -INFO - Log out success
+2020-04-07 16:59:01,869 - StaffAm -INFO - Went to main job page
+2020-04-07 16:59:06,120 - StaffAm -INFO - Senior filter clicked
+2020-04-07 16:59:06,192 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:06,687 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:06,712 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:07,198 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:07,677 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:08,192 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:08,670 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:09,121 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:09,549 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:10,013 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:10,472 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:10,502 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:10,529 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:10,568 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:11,009 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:11,434 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:11,976 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:12,473 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:12,961 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:13,479 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:13,993 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:14,489 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:14,990 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:15,508 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:16,028 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:16,047 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:16,066 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:16,568 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:16,592 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:16,618 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:17,133 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:17,156 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:17,176 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:17,195 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:17,707 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:18,239 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:18,759 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:19,294 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:19,799 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:19,821 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:20,316 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:20,847 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:20,866 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:20,885 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:20,903 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:20,922 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:20,940 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:20,960 - StaffAm -INFO - Senior positions
+2020-04-07 16:59:21,480 - StaffAm -WARN - Filter is not matching
+2020-04-07 16:59:22,024 - StaffAm -WARN - Filter is not matching
