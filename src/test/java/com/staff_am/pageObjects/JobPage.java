@@ -37,6 +37,21 @@ public class JobPage {
     @CacheLookup
     WebElement logOut;
 
+    @FindBy(xpath = "//span[@class='my-filter bg-cyan']")
+    @CacheLookup
+    WebElement filterSenior;
+
+    @FindBy(xpath = "//a[@class='green_color pull-right jobClearFilter']")
+    @CacheLookup
+    WebElement clearAllFilters;
+
+   @FindBy(xpath = "//input[@type='checkbox']")
+   @CacheLookup
+   List<WebElement> allCheckboxes;
+
+
+
+
 
 //_________________________________________________________
 
@@ -44,9 +59,7 @@ public class JobPage {
     @CacheLookup
     List<WebElement> viewMoreBtns;
 
-    @FindBy(xpath = "//span[@class='my-filter bg-cyan']")
-    @CacheLookup
-    WebElement filterSenior;
+
 
 
 
@@ -97,6 +110,15 @@ public class JobPage {
 
     public void clickLogOut() {
         logOut.click();
+    }
+
+    public void  clickClearAllFilters(){
+        Actions actions = new Actions(driver);
+        actions.click(clearAllFilters).perform();
+    }
+
+    public List<WebElement> getAllCheckboxes(){
+        return allCheckboxes;
     }
 
 
