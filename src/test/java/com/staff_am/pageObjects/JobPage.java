@@ -45,32 +45,29 @@ public class JobPage {
     @CacheLookup
     WebElement clearAllFilters;
 
-   @FindBy(xpath = "//input[@type='checkbox']")
-   @CacheLookup
-   List<WebElement> allCheckboxes;
+    @FindBy(xpath = "//input[@type='checkbox']")
+    @CacheLookup
+    List<WebElement> allCheckboxes;
 
-
-
-
-
-//_________________________________________________________
-
-    @FindBy(linkText = "View more")
+    @FindBy(css = "a[class*='load-more']")
     @CacheLookup
     List<WebElement> viewMoreBtns;
 
 
-
+//_________________________________________________________
 
 
     @FindBy(xpath = "//label[contains(text(),'Yerevan')]")
     @CacheLookup
     WebElement filterCityYerevan;
 
+    @FindBy(className = "job_location")
+    @CacheLookup
+    List<WebElement> jobLocationTitles;
 
-
-
-
+    public List<WebElement> getJoLocationTitles(){
+        return jobLocationTitles;
+    }
 
 
     public void jobBtnClick() {
@@ -86,8 +83,9 @@ public class JobPage {
     }
 
 
-    public void clickViewMore() {
-        viewMoreBtns.get(0).click();
+    public WebElement clickViewMore() {
+
+        return viewMoreBtns.get(0);
     }
 
     public void clickSeniorBtn() {
@@ -100,7 +98,9 @@ public class JobPage {
         if (filterCityYerevan.isSelected()) {
             System.out.println("Filter already exist");
         } else {
-            filterCityYerevan.click();
+            Actions actions = new Actions(driver);
+            actions.click(filterCityYerevan).perform();
+
         }
     }
 
@@ -112,15 +112,14 @@ public class JobPage {
         logOut.click();
     }
 
-    public void  clickClearAllFilters(){
+    public void clickClearAllFilters() {
         Actions actions = new Actions(driver);
         actions.click(clearAllFilters).perform();
     }
 
-    public List<WebElement> getAllCheckboxes(){
+    public List<WebElement> getAllCheckboxes() {
         return allCheckboxes;
     }
-
 
 
 }
