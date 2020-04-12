@@ -11,7 +11,7 @@ Phase 1: Implementation
 6.Run test cases on a desired browser
 7.Add extent report
 
-Phase 2:Adding all test case classes
+Phase 2: Adding all test case classes
 
 
 Phase 3: Integration with Jenkins
