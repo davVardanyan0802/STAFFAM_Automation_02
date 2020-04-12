@@ -85,4 +85,17 @@ public class TrainingsTestsSteps {
             s.assertAll();
         }
     }
+
+    public void verifyLanguageFilter() throws InterruptedException{
+        SoftAssert s=new SoftAssert();
+        String a=page.getFilterText("Language",2);
+        page.setLanguageFilter("German");
+        Thread.sleep(2000);
+        page.clickOnCourseList(0);
+        if(a.contains("(0)")){
+            System.out.println("No training by such language");
+        }else {
+            s.assertTrue(a.contains(page.getLanguage()));
+        }
+    }
 }
