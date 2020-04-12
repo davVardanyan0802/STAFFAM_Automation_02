@@ -6,6 +6,11 @@ import org.testng.asserts.SoftAssert;
 
 public class CompaniesTestsSteps {
     CompaniesPage page;
+    String n_0="up to 50";
+    String n_1="50-200";
+    String n_2="200-500";
+    String n_3="500-1500";
+    String n_4="more than 1500";
 
     public CompaniesTestsSteps(WebDriver driver){
         page=new CompaniesPage(driver);
@@ -51,5 +56,34 @@ public class CompaniesTestsSteps {
             s.assertTrue(page.getFollowersCount(index1) == page.getFollowersCount(index2));
         }
         s.assertAll();
+    }
+
+    public void verifyIndustryFilter(int index) throws InterruptedException {
+        SoftAssert s=new SoftAssert();
+        String a=page.getFilterText("Industry",index);
+        page.setIndustryFilter(index);
+        Thread.sleep(1500);
+        page.clickOnCompaniesList(0);
+        if(a.contains("(0)")){
+            System.out.println("No company with such industry");
+        }else {
+            s.assertTrue(a.contains(page.getIndustry()));
+        }
+    }
+
+    public void verifyEmployeesNumberFilter(String n,int i) throws InterruptedException {
+        SoftAssert s = new SoftAssert();
+        String a = page.getFilterText("Employee", i);
+        page.setEmployeeNumberFilter(n);
+        Thread.sleep(2000);
+        page.clickOnCompaniesList(0);
+        if (a.contains("(0)")) {
+            System.out.println("No company with such employee number");
+        } else if ((n.contains(n_0) && i == 0) || (n.contains(n_1) && i == 1) || (n.contains(n_2) && i == 2) ||
+                (n.contains(n_3) && i == 3) || (n.contains(n_4) && i == 4)) {
+            s.assertTrue(a.contains(page.getEmployeeNumber()));
+        } else {
+            s.assertFalse(a.contains(page.getEmployeeNumber()));
+        }
     }
 }
