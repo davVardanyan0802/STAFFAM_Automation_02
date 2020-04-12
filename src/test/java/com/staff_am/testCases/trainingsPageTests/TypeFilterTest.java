@@ -5,11 +5,10 @@ import com.staff_am.steps.testHelper.TrainingsTestsSteps;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class LanguageFilterTest  extends BaseClass {
+public class TypeFilterTest  extends BaseClass {
     TrainingsTestsSteps step;
-    String language_0="English";
-    String language_1="Armenian";
-    String language_2="German";
+    String type_0="Training";
+    String type_1="e-learning";
     @BeforeMethod
     public void setTest()throws InterruptedException {
         Thread.sleep(5000);
@@ -19,22 +18,18 @@ public class LanguageFilterTest  extends BaseClass {
 
     @Test
     public void test_0()throws InterruptedException{
-        step.verifyLanguageFilter("English",1);
+        step.verifyTypeFilter(type_0,0);
     }
     @Test
     public void test_1()throws InterruptedException{
-        step.verifyLanguageFilter("English",0);
+        step.verifyTypeFilter(type_0,1);
     }
     @Test
-    public void test_2()throws  InterruptedException{
-        step.verifyLanguageFilter("Armenian",1);
+    public void test_2()throws InterruptedException{
+        step.verifyTypeFilter(type_1,1);
     }
     @Test
     public void test_3()throws InterruptedException{
-        step.verifyLanguageFilter("German",2);
-    }
-    @Test
-    public void test_4()throws InterruptedException{
-        step.verifyLanguageFilter("German",0);
+        step.verifyTypeFilter(type_1,0);
     }
 }
