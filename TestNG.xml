@@ -16,6 +16,16 @@
             <class name="com.staff_am.testCases.TC_ClearFilters_04"/>
             <class name="com.staff_am.testCases.TC_ViewMore_07"/>
             <class name="com.staff_am.testCases.TC_FilterCity_08"/>
+            <class name="com.staff_am.testCases.TC_SelectCategory_09"/>
+            <class name="com.staff_am.testCases.TC_SelectCities_10"/>
+            <class name="com.staff_am.testCases.TC_SelectCategoryAndCities_11"/>
+            <class name="com.staff_am.testCases.TC_SelectByKeyword_12"/>
+            <class name="com.staff_am.testCases.TC_SelectCitiesForTrainings_14"/>
+            <class name="com.staff_am.testCases.TC_SelectKeywordForTranings_15"/>
+            <class name="com.staff_am.testCases.TC_SelectCategoryForCompany_16"/>
+            <class name="com.staff_am.testCases.TC_SelectKeywordByCompany_17"/>
+            <class name="com.staff_am.testCases.TC_SelectCategoryForTranings_13"/>
+            <class name="com.staff_am.testCases.TC_SelectCitiesForCompany_18"/>
 
 
         </classes>
