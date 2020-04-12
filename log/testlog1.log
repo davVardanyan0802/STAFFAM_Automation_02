@@ -1030,3 +1030,179 @@
 2020-04-10 19:53:32,139 [main] INFO StaffAm - Displaying all jobs in Yerevan
 2020-04-10 19:53:32,211 [main] INFO StaffAm - Displaying all jobs in Yerevan
 2020-04-10 19:53:32,292 [main] INFO StaffAm - Displaying all jobs in Yerevan
+2020-04-12 14:30:13,546 [main] INFO StaffAm -  Clicked Sign in
+2020-04-12 14:30:13,895 [main] INFO StaffAm - Username entered
+2020-04-12 14:30:14,178 [main] INFO StaffAm - Password entered
+2020-04-12 14:30:14,421 [main] INFO StaffAm - Submit clicked
+2020-04-12 14:30:21,200 [main] INFO StaffAm - Log In Successfully
+2020-04-12 14:30:47,207 [main] INFO StaffAm - Signed in
+2020-04-12 14:30:53,264 [main] INFO StaffAm - Clicked on job
+2020-04-12 14:30:53,889 [main] INFO StaffAm - Job Page Successfully
+2020-04-12 14:31:24,159 [main] INFO StaffAm - Sign in and went to job board page
+2020-04-12 14:31:25,065 [main] INFO StaffAm - Search term entered
+2020-04-12 14:31:25,397 [main] INFO StaffAm - Search button clicked
+2020-04-12 14:31:32,485 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,514 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,539 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,565 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,591 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,619 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,646 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,672 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,700 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,742 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,767 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,794 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,820 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,845 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:32,872 [main] INFO StaffAm - Search matches
+2020-04-12 14:31:33,594 [main] WARN StaffAm - Search is not matching
+2020-04-12 14:31:34,345 [main] WARN StaffAm - Search is not matching
+2020-04-12 14:31:35,013 [main] WARN StaffAm - Search is not matching
+2020-04-12 14:31:35,681 [main] WARN StaffAm - Search is not matching
+2020-04-12 14:31:36,466 [main] WARN StaffAm - Search is not matching
+2020-04-12 14:31:37,107 [main] WARN StaffAm - Search is not matching
+2020-04-12 14:31:37,858 [main] WARN StaffAm - Search is not matching
+2020-04-12 14:31:38,628 [main] WARN StaffAm - Search is not matching
+2020-04-12 14:31:39,354 [main] WARN StaffAm - Search is not matching
+2020-04-12 14:31:40,110 [main] WARN StaffAm - Search is not matching
+2020-04-12 14:31:40,873 [main] WARN StaffAm - Search is not matching
+2020-04-12 14:32:11,976 [main] INFO StaffAm - Log out success
+2020-04-12 14:32:42,813 [main] INFO StaffAm - Went to main job page
+2020-04-12 14:32:47,112 [main] INFO StaffAm - Senior filter clicked
+2020-04-12 14:32:47,874 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:48,505 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:49,250 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:49,895 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:50,671 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:51,311 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:51,933 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:52,520 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:53,135 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:53,160 [main] INFO StaffAm - Senior positions
+2020-04-12 14:32:53,745 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:54,316 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:54,342 [main] INFO StaffAm - Senior positions
+2020-04-12 14:32:55,013 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:55,751 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:56,477 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:57,227 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:57,953 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:58,684 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:32:59,385 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:00,127 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:00,845 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:01,568 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:01,595 [main] INFO StaffAm - Senior positions
+2020-04-12 14:33:02,317 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:03,046 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:03,770 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:04,481 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:05,209 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:05,911 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:06,617 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:07,345 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:08,075 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:08,801 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:08,825 [main] INFO StaffAm - Senior positions
+2020-04-12 14:33:08,850 [main] INFO StaffAm - Senior positions
+2020-04-12 14:33:09,564 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:10,279 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:10,998 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:11,713 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:12,428 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:13,150 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:13,860 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:14,570 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:15,290 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:15,995 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:16,717 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:17,433 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:17,459 [main] INFO StaffAm - Senior positions
+2020-04-12 14:33:18,180 [main] WARN StaffAm - Filter is not matching
+2020-04-12 14:33:49,032 [main] INFO StaffAm - Sign in and went to job board page
+2020-04-12 14:33:54,354 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,372 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,389 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,442 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,459 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,476 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,493 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,510 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,528 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,553 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,571 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,589 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,607 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,624 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,641 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,657 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,675 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,694 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,711 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,731 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,749 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,767 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,785 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,804 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,824 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,842 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,858 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,877 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,893 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,910 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,928 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,946 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:54,964 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,055 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,090 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,130 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,147 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,170 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,186 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,202 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,220 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,240 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,260 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,280 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,298 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,315 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,334 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,354 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,373 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,391 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,409 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,428 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,446 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,462 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,479 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,499 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,517 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,538 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,555 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,575 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,595 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,614 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,632 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,651 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,669 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,687 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,705 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,723 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,742 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,761 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,780 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,801 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,829 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,846 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,864 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,883 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,902 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:33:55,922 [main] INFO StaffAm - All checkboxes cleared
+2020-04-12 14:34:27,015 [main] INFO StaffAm - Went to main job page
+2020-04-12 14:34:27,629 [main] INFO StaffAm - Clicked on View More button
+2020-04-12 14:34:58,395 [main] INFO StaffAm - Went to main job page
+2020-04-12 14:35:00,316 [main] WARN StaffAm - Job location is not matching
+2020-04-12 14:35:01,153 [main] WARN StaffAm - Job location is not matching
+2020-04-12 14:35:02,491 [main] WARN StaffAm - Job location is not matching
+2020-04-12 14:35:03,868 [main] WARN StaffAm - Job location is not matching
