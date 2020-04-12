@@ -16,7 +16,12 @@
             <class name="com.staff_am.testCases.TC_ClearFilters_04"/>
             <class name="com.staff_am.testCases.TC_ViewMore_07"/>
             <class name="com.staff_am.testCases.TC_FilterCity_08"/>
-
+            <class name="com.staff_am.testCases.companiesPageTests.DropDownTests"/>
+            <class name="com.staff_am.testCases.companiesPageTests.MultipleFilterTest"/>
+            <class name="com.staff_am.testCases.trainingsPageTests.MultipleFilterTest"/>
+            <class name="com.staff_am.testCases.trainingsPageTests.CategoryFilterTest"/>
+            <class name="com.staff_am.testCases.trainingsPageTests.PriceFilterTest"/>
+            <class name="com.staff_am.testCases.trainingsPageTests.SearchTest"/>
 
         </classes>
     </test>
