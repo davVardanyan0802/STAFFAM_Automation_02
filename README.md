@@ -1,6 +1,7 @@
 # STAFFAM_Automation_02
 
 Automation framework setup plan
+
 Phase 1: Implementation
 
 1.Maven project setup with dependencies
