@@ -32,6 +32,10 @@
             <class name="com.staff_am.testCases.trainingsPageTests.CategoryFilterTest"/>
             <class name="com.staff_am.testCases.trainingsPageTests.PriceFilterTest"/>
             <class name="com.staff_am.testCases.trainingsPageTests.SearchTest"/>
+            <class name="com.staff_am.testCases.trainingsPageTests.LanguageFilterTest"/>
+            <class name="com.staff_am.testCases.trainingsPageTests.CityFilterTest"/>
+            <class name="com.staff_am.testCases.trainingsPageTests.TypeFilterTest"/>
+
 
         </classes>
     </test>

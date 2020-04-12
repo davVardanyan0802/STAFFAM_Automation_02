@@ -85,4 +85,49 @@ public class TrainingsTestsSteps {
             s.assertAll();
         }
     }
+
+    public void verifyLanguageFilter(String l,int i) throws InterruptedException{
+        SoftAssert s=new SoftAssert();
+        String a=page.getFilterText("Language",i);
+        page.setLanguageFilter(l);
+        Thread.sleep(2000);
+        page.clickOnCourseList(0);
+        if(a.contains("(0)")){
+            System.out.println("No training by such language");
+        }else if((l.contains("English")&&i==0)||(l.contains("Armenian")&&i==1)||(l.contains("German")&&i==2)){
+            s.assertTrue(a.contains(page.getLanguage()));
+        }else{
+            s.assertFalse(a.contains(page.getLanguage()));
+        }
+    }
+
+    public void verifyCityFilter(String c,int i) throws InterruptedException {
+        SoftAssert s=new SoftAssert();
+        String a=page.getFilterText("City",i);
+        page.setCityFilter(c);
+        Thread.sleep(2000);
+        page.clickOnCourseList(0);
+        if(a.contains("(0)")){
+            System.out.println("No training by such city");
+        }else if((c.contains("Yerevan")&&i==0)||(c.contains("Online")&&i==1)){
+            s.assertTrue(c.contains(page.getLocation()));
+        }else{
+            s.assertFalse(c.contains(page.getLocation()));
+        }
+    }
+
+    public void verifyTypeFilter(String t,int i)throws InterruptedException{
+        SoftAssert s=new SoftAssert();
+        String a=page.getFilterText("Type",i);
+        page.setTypeFilter(t);
+        Thread.sleep(2000);
+        page.clickOnCourseList(0);
+        if(a.contains("(0)")){
+            System.out.println("No training by such city");
+        }else if((t.contains("Training")&&i==0)||(t.contains("e-learning")&&i==1)){
+            s.assertTrue(t.contains(page.getType()));
+        }else{
+            s.assertFalse(t.contains(page.getType()));
+        }
+    }
 }
