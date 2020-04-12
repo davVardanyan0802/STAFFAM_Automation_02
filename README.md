@@ -11,7 +11,10 @@ Phase 1: Implementation
 6.Run test cases on a desired browser
 7.Add extent report
 
-Phase 2: Integration with Jenkins
+Phase 2:Adding all test case classes
+
+
+Phase 3: Integration with Jenkins
 
 1.Jenkins global settings setup
 2.Adding new Job
