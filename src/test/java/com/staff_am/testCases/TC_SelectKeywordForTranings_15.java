@@ -8,11 +8,15 @@ import org.testng.annotations.Test;
 public class TC_SelectKeywordForTranings_15 extends BaseClass {
     @Test
     public void selectKeywordForTraining() throws InterruptedException {
-        MainPage mainPage=new MainPage();
+        MainPage mainPage=new MainPage(driver);
         driver.get(baseURL);
         Thread.sleep(3000);
         mainPage.trainin();
+        Thread.sleep(3000);
         mainPage.writtingSendkeys("qa");
+        Thread.sleep(3000);
+        mainPage.clickOnSearch();
+        Thread.sleep(3000);
         String ExpUrl = "https://staff.am/en/trainings?search_option=&search_option=trainings&TrainingsFilter%5Bkey_word%5D=";
         Assert.assertTrue(driver.getCurrentUrl().contains(ExpUrl));
     }

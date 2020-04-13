@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class TC_SelectCitiesForCompany_18 extends BaseClass {
     @Test
     public void selectCityForCompany() throws InterruptedException {
-        MainPage mainPage=new MainPage();
+        MainPage mainPage=new MainPage(driver);
         driver.get(baseURL);
         Thread.sleep(3000);
         mainPage.company();

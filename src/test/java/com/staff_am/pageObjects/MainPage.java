@@ -1,6 +1,7 @@
 package com.staff_am.pageObjects;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -12,16 +13,17 @@ import org.openqa.selenium.support.ui.Select;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+import java.util.concurrent.TimeUnit;
 
-public class MainPage extends BaseClass {
-    // WebDriver driver;
-//
-//    public MainPage(WebDriver driver) {
-//        this.driver = driver;
-//        PageFactory.initElements(driver, this);
-//    }
+public class MainPage {
+    WebDriver driver;
 
-    @FindBy(xpath = "//*[@id=\\\"home_page_search_section\\\"]/div[5]/button/i")
+ public MainPage(WebDriver driver) {
+       this.driver = driver;
+       PageFactory.initElements(driver, this);
+   }
+
+    @FindBy(xpath = "//*[@id=\"home_page_search_section\"]/div[5]/button/i")
     @CacheLookup
     WebElement searchButtonOnMainPage;
 
@@ -36,16 +38,27 @@ public class MainPage extends BaseClass {
     @FindBy(id = "jobsfilter-key_word")
     @CacheLookup
     WebElement wkeyword;
-    @FindBy(xpath = "//*[@id=\\\"jobsfilter-type\\\"]/label[2]/div/ins")
+    @FindBy(xpath = "//*[@id=\"jobsfilter-type\"]/label[2]/div")
     @CacheLookup
     WebElement trainingCheckbox;
-    @FindBy(xpath = "//*[@id=\\\"jobsfilter-type\\\"]/label[3]/div/ins")
+    @FindBy(xpath = "//*[@id=\"jobsfilter-type\"]/label[3]/div")
     @CacheLookup
     WebElement companyCheckbox;
 
-    public void setSearchButtonOnMainPageClick() {
-        searchButtonOnMainPage.click();
+
+    public MainPage clickOnSearch(){
+        try {
+            System.out.println("Click on search :"+searchButtonOnMainPage);
+            searchButtonOnMainPage.click();
+        }catch (StaleElementReferenceException e){
+            System.out.println("StaleElementReferenceException at clickOnSearch");
+        }
+        return this;
     }
+
+ //   public void SearchButtonOnMainPageClick() {
+   //     searchButtonOnMainPage.click();
+    //}
 
     public void selectCategoryDropDown() {
         Select select = new Select(dropDownAllCategory);
@@ -79,22 +92,41 @@ public class MainPage extends BaseClass {
         selectAllcitiesDropDown();
     }
 
-    public void writtingSendkeys(String keyword) {
+    public MainPage writtingSendkeys(String keyword) {
 
-        wkeyword.sendKeys();
-
+        driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
+        try {
+            wkeyword.sendKeys(keyword);
+            System.out.println("Keywords <<"+keyword+">> are inserted");
+        }catch (StaleElementReferenceException e){
+            System.out.println("StaleElementReferenceException at insertKeywords");
+        }
+        return this;
     }
 
+      //  wkeyword.sendKeys();
 
-    public void trainin() throws InterruptedException {
+   // }
+
+
+    public MainPage trainin()  {
         trainingCheckbox.click();
-        Thread.sleep(3000);
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        return this;
 
     }
-    public void company() throws InterruptedException {
+    public MainPage company()  {
         companyCheckbox.click();
-        Thread.sleep(3000);
-
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+return this;
     }
 
 
